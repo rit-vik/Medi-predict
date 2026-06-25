@@ -17,6 +17,11 @@
   <img src="https://img.shields.io/badge/Supabase-Database-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-7.x-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
 </p>
+<p align="center">
+  <a href="https://tanstack-start-app.medipredict.workers.dev"><strong>🌐 Live Demo</strong></a>
+  ·
+  <a href="https://medipredict-api.onrender.com/docs"><strong>📑 API Docs</strong></a>
+</p>
 
 ---
 
