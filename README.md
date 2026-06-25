@@ -317,5 +317,5 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 ---
 
 <p align="center">
-  Built by <a href="https://github.com/rit-vik">rit-vik</a>
+  Made by <a href="https://github.com/rit-vik">rit-vik</a> and <a href="https://github.com/aarushamishra7-byte">aarushamishra7-byte</a>
 </p>
