@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  🩺 MediPredict AI
+  MediPredict AI
   <br>
 </h1>
 
@@ -20,18 +20,18 @@
 
 ---
 
-## ✨ Overview
+##  Overview
 
 **MediPredict AI** is a full-stack clinical AI platform that empowers users to make proactive health decisions. It combines a sleek, dark-themed React frontend with a FastAPI-powered Python ML backend to deliver:
 
-- 🔬 **Disease Risk Prediction** — Analyzes 132 symptoms using a RandomForest classifier trained on clinical data to predict the top 3 likely diseases with probability scores
-- 💰 **Treatment Cost Estimation** — Estimates medical expenses based on patient profile (age, BMI, region, smoking status) using a GradientBoosting regressor
-- 🤖 **AI Medical Chat Assistant** — Contextual chatbot that discusses your specific results and offers personalized health recommendations
-- 📋 **Assessment History** — All past health assessments are saved via Supabase and accessible from your dashboard
+-  **Disease Risk Prediction** — Analyzes 132 symptoms using a RandomForest classifier trained on clinical data to predict the top 3 likely diseases with probability scores
+-  **Treatment Cost Estimation** — Estimates medical expenses based on patient profile (age, BMI, region, smoking status) using a GradientBoosting regressor
+-  **AI Medical Chat Assistant** — Contextual chatbot that discusses your specific results and offers personalized health recommendations
+-  **Assessment History** — All past health assessments are saved via Supabase and accessible from your dashboard
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
 Medi-predict-AI/
@@ -65,7 +65,7 @@ Medi-predict-AI/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -183,12 +183,12 @@ Training Disease Classifier...
   ✅ Accuracy on test set: ~97%
 Training Cost Regressor...
   ✅ R² Score: ~0.937
-🎉 All models trained and saved to /models
+ All models trained and saved to /models
 ```
 
 ---
 
-## 🧠 ML Models
+##  ML Models
 
 ### Disease Classifier
 - **Algorithm**: Random Forest Classifier (200 estimators)
@@ -205,7 +205,7 @@ Training Cost Regressor...
 
 ---
 
-## 🌐 API Endpoints
+##  API Endpoints
 
 | Method | Endpoint | Description |
 |--------|----------|-------------|
@@ -232,7 +232,7 @@ Training Cost Regressor...
 
 ---
 
-## 🔑 Environment Variables
+##  Environment Variables
 
 ### Frontend (root `.env`)
 
@@ -249,11 +249,11 @@ Training Cost Regressor...
 |----------|-------------|
 | `GEMINI_API_KEY` | Google Gemini API key (for the chat feature) |
 
-> ⚠️ **Never commit `.env` files.** Copy `.env.example` and fill in your own credentials.
+>  **Never commit `.env` files.** Copy `.env.example` and fill in your own credentials.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 | Technology | Purpose |
@@ -279,7 +279,7 @@ Training Cost Regressor...
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ### Landing Page
 > Scroll-driven video background with animated ECG line and glassmorphism cards.
@@ -292,7 +292,7 @@ Training Cost Regressor...
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please:
 
@@ -304,13 +304,13 @@ Contributions are welcome! Please:
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 MediPredict AI is intended for **educational and informational purposes only**. It is **not** a substitute for professional medical advice, diagnosis, or treatment. Always consult a qualified healthcare provider for medical decisions.
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
