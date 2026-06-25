@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none">
+  <!-- Dark rounded background -->
+  <rect width="32" height="32" rx="8" fill="#0d1117"/>
+  <!-- Cyan ECG / heartbeat line matching the Activity icon -->
+  <polyline
+    points="2,16 7,16 9,10 12,22 15,8 18,20 21,14 23,16 30,16"
+    stroke="#00e5ff"
+    stroke-width="2.2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    fill="none"
+  />
+</svg>
