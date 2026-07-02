@@ -84,6 +84,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary" },
       { name: "twitter:site", content: "@MediPredictAI" },
+      { name: "google-site-verification", content: "OXcFhbzEWrbPLpgbKaFSvxxM7E8X_MNBmQ8N-N17S_4" },
     ],
     links: [
       { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" },
