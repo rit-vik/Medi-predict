@@ -63,3 +63,9 @@ ml-model/api/__pycache__/
 *.sln
 *.sw?
 Thumbs.db
+
+# ─────────────────────────────────────────────────────────────
+# Lock files — using npm (package-lock.json), ignore bun lock
+# ─────────────────────────────────────────────────────────────
+bun.lock
+bunfig.toml
