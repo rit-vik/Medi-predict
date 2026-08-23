@@ -205,7 +205,7 @@ Training Cost Regressor...
 ### Treatment Cost Regressor
 - **Algorithm**: Gradient Boosting Regressor (300 estimators)
 - **Input**: Age, BMI, children, smoker status, sex, region
-- **Output**: Estimated treatment cost in USD
+- **Output**: Estimated treatment cost in INR
 - **R² Score**: ~0.937
 
 ---
